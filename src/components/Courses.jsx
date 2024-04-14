@@ -22,19 +22,19 @@ export const Courses = () => {
       id: 1,
       title: "Mern course",
       description: "buy now for only $1",
-      image: "./public/images/p1.jpg",
+      image: "./images/p1.jpg",
     },
     { 
       id: 2,
       title: "Front-End course",
       description: " Discount price:$5",
-      image: "./public/images/a1.jpg",
+      image: "./images/a1.jpg",
     },
     {
       id: 3,
       title: "Full stack course",
       description: " Discount price:$4",
-      image: "./public/images/a2.jpg",
+      image: "./images/a2.jpg",
     },
   ];
 
